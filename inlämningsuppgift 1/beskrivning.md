@@ -11,10 +11,13 @@ utförligt om vad resultatet av uppgiften ska vara.
 
 Ni ska skapa en design på ett undersökningsformulär som ska innehålla olika typer av HTML element. 
 Dessa element kan ni själva välja valfritt i vilken ordning de ska ligga i dokumentet, kravet är att samtliga finns
-med. 
+med. Här gäller det att ni är kreativa med era lösningar.  
 
 <br>
 Följande element ska finnas med i HTML-dokumentet:
+
+* moment 1
+* moment 2
 
 
 
