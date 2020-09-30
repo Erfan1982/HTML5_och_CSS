@@ -15,7 +15,7 @@ med. Här gäller det att ni är kreativa med era lösningar.
 
 <br>
 Följande element ska finnas med i HTML-dokumentet:
-
+<br>
 * moment 1
 * moment 2
 
