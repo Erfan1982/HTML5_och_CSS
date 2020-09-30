@@ -13,10 +13,10 @@ Ni ska skapa en design på ett undersökningsformulär som ska innehålla olika 
 Dessa element kan ni själva välja valfritt i vilken ordning de ska ligga i dokumentet, kravet är att samtliga finns
 med. Här gäller det att ni är kreativa med era lösningar.  
 
-<br>
+</br>
 Följande element ska finnas med i HTML-dokumentet:
 
-<br>
+</br>
 
 * moment 1
 * moment 2
