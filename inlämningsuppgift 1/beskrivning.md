@@ -21,8 +21,10 @@ Följande element ska finnas med i HTML-dokumentet:
 
 * En titel med en kort beskrivning om vad sidan handlar om
 * En rubrik med största storleken som finns, med en text som förklarar att det är en undersökning de ska fylla
-* En text i fetstil som talar om för användaren att mata in sitt namn. Efter detta ska det finnas ett vanligt inmatningsfält där följande kriterier
-måste vara uppfyllda
+* En text i fetstil som talar om för användaren (den anställda) att mata in sitt namn. Efter detta ska det finnas ett vanligt inmatningsfält där följande kriterier
+måste vara uppfyllda. Det första är att själva storleken (eller bredden) på fältet ska sättas till 35 och det andra är att max antalet tecken som man får lov att skriva in i fältet är 20.
+* Ni ska ha en textarea som är 30 kolumner brett och 4 rader långt. I denna area är tanken att användaren ska beskriva kort om sig själv. Se till att det finns en förklarande text till textarean så att användaren vet vilken typ av information som förväntas matas in där. 
+* En kursiv text som ställer frågan om den anställde tränar någon (sport). I samband med denna frågan ska det finnas två radioknappar. Bredvid den första ska det stå JA och bredvid den andra ska det stå NEJ. Användaren ska i detta fallet endast kunna välja ett av alternativet, antingen JA eller NEJ och inte båda.  
 
 
 
