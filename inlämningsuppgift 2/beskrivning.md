@@ -9,8 +9,8 @@ utförligt om vad resultatet av uppgiften ska vara.
 
 ## Vad är det som ska skapas ?
 
-Ni ska skapa ett helt nytt tema till en befintlig sida som finns på nätet. Denna kallas för CSSZengarden och ni kommer åt den via URL-länken
-[Länk till hemsidan](http://www.csszengarden.com/)
+Ni ska skapa ett helt nytt tema till en befintlig sida som finns på nätet. Denna kallas för CSSZengarden och ni kommer åt den via följande 
+[URL-länk](http://www.csszengarden.com/)
 
 
 
